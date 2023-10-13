@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.583384a1.css",
+    "main.js": "/static/js/main.e75c41b4.js",
+    "static/media/blake-connally-IKUYGCFmfw4-unsplash.jpg": "/static/media/blake-connally-IKUYGCFmfw4-unsplash.1be7ae0f28e7c4ef779d.jpg",
+    "static/media/Mi_Avatar.png": "/static/media/Mi_Avatar.611cb62fb0fbcbc047bb.png",
+    "index.html": "/index.html",
+    "main.583384a1.css.map": "/static/css/main.583384a1.css.map",
+    "main.e75c41b4.js.map": "/static/js/main.e75c41b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583384a1.css",
+    "static/js/main.e75c41b4.js"
+  ]
+}
