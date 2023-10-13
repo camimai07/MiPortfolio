@@ -3,7 +3,7 @@ body{
 
   transition: 300ms ease all;
 
-  @include mixinsfunc.flex-box;
+  // @include mixinsfunc.flex-box;
   &::-webkit-scrollbar {
     width: 8px;               /* width of the entire scrollbar */
   }

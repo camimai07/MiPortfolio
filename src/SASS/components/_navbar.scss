@@ -3,13 +3,12 @@ nav{
     height: 80px;
     width: 100%;
     transition: 300ms ease all;
-
-    /* flex-direction: baseline; */
     @include mixinsfunc.flex-box(space-between);
-    background-color: $color-nav;
-    /* padding: 10px 0 10px 0; */
+    // background-color: $color-nav;
+    background-color: $color_dark;
     position: fixed;
     z-index: 10;
+    
     ul{
         @include mixinsfunc.flex-box;
         gap: 60px;

@@ -1,6 +1,7 @@
+
 export function Skills(){
     return(
-        <section id="Skills">
+        
             <div className="container-skills">
                 <h1>Skills</h1>
                 
@@ -73,6 +74,6 @@ export function Skills(){
                     </div>
                 </div>
             </div>
-        </section>        
+               
     );
 }

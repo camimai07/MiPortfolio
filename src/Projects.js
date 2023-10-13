@@ -58,7 +58,7 @@ export function Projects(){
                     <div className="descripcion-proyecto iMovies active">
                         <span><i className="fa-solid fa-check" style={{color: '#00c220'}}></i> Responsive Design</span>
                         <div className="botonesProyectos">
-                            <button className="btnProyectos"><a href="https://camimai07.github.io/iMovies/" target="_blank">Ver Demo</a></button>
+                            <button className="btnProyectos"><a href="https://camimai07.github.io/react-iMovies/" target="_blank">Ver Demo</a></button>
                             <button className="btnProyectos"><a href="">Link al repo</a></button>
                         </div>
                         <p><strong>iMovies:</strong> sitio web de películas, visualización de trailers. 
