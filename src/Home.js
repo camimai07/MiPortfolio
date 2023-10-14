@@ -6,7 +6,7 @@ export function Home(){
                     <div className="containerHome">
                         <div className="borde left"></div>
                         <div className="img-texto">
-                            <div className="texto">
+                            <div className="texto animate__animated animate__flipInY">
                                 <h1>Hola! Soy</h1><br/>
                                 <h1>Camila Luciana Maita</h1><br/>
                                 <h1>Full-Stack Developer<span className="guion">_</span></h1><br/>
