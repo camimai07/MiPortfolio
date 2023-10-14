@@ -1,5 +1,5 @@
 
-// import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 
 export function Navbar(){
 
@@ -22,25 +22,29 @@ export function Navbar(){
     };
    
   
-    
+    const navRef = useRef(null);
 
-    // useEffect(() => {
-    //     const scroll_nav = ()=>{
-    //     let nav = document.querySelector('nav');
-    //     nav.classList.toggle('colorNav');
-    //     }
+    useEffect(() => {
+        const scroll_nav = ()=>{
+            if (document.body.scrollTop > 220 || document.documentElement.scrollTop > 220){
+                navRef.current.classList.add('colorNav');
+            }else{
+                navRef.current.classList.remove('colorNav');
+            }
+    
+        }
        
-    //     window.addEventListener('scroll', scroll_nav);
+        window.addEventListener('scroll', scroll_nav);
       
-    //     return () => {
-    //        window.removeEventListener('scroll', scroll_nav);
-    //     };
-    // }, []);
+        return () => {
+           window.removeEventListener('scroll', scroll_nav);
+        };
+    }, []);
       
 
 
     return(
-        <nav >
+        <nav ref={navRef}>
             <div className="logo"><p>MiPortfolio</p></div>
             <div className="menu" onClick={animation_menu}>
                 <span className="line1__menu"></span>
