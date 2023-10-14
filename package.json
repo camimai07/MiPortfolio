@@ -2,7 +2,7 @@
   "name": "mi-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepages":"https://camimai07.github.io/MiPortfolio",
+  "homepage":"https://camimai07.github.io/MiPortfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
