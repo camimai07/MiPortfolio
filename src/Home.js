@@ -14,7 +14,7 @@ export function Home(){
                                 <div className="contacto-icons-home">
                                     <div className="contacto-icons-home_a"><a href="https://wa.me/1169971238" target="_blank"><i className="fa-brands fa-whatsapp fa-lg" style={{color: '#fffbfe'}}></i></a></div>
                                     <div className="contacto-icons-home_a"><a href="mailto:camilamaita07@gmail.com" target="_blank"><i className="fa-solid fa-envelope g"style={{color: '#fffbfe'}}></i></a></div>
-                                    <div className="contacto-icons-home_a"><a href="" target="_blank"><i className="fa-solid fa-sheet-plastic" style={{color: '#fffbfe'}}></i></a></div>
+                                    <div className="contacto-icons-home_a"><a href="https://www.canva.com/design/DAFvY_PrKJA/eFcunkD12R3yAbegKPXLjA/edit?utm_content=DAFvY_PrKJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><i className="fa-solid fa-sheet-plastic" style={{color: '#fffbfe'}}></i></a></div>
                                     
                                 </div>
                             </div>
