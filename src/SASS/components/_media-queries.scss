@@ -31,7 +31,7 @@
 @media (max-width:1090px){
     
     nav{
-        background-color: $color_dark;
+        // background-color: $color_dark;
         ul{
             display: none;
             padding-right: 0;
@@ -71,8 +71,8 @@
     }
 
     body.white nav{
-        background: $color-nav-white;   
-        transition: 300ms ease all;
+        // background: $color-nav-white;   
+        // transition: 300ms ease all;
         
         ul{
             background: $color-nav-white;

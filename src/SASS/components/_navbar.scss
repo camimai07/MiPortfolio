@@ -65,10 +65,22 @@ nav{
 
 .colorNav{
     background-color: $color_dark;
-    transition: linear all 300ms;
+    transition: ease all 300ms;
 }
 
+.color{
+    background-color: $color_dark;
+    transition: ease all 300ms;
+}
+body.white nav.color{
+    background: $color-nav-white;   
+    transition: ease all 300ms;
+}
+// .color-white{
+//     background: $color-nav-white;   
+//     transition: 300ms ease all;
 
+// }
 .btn2 {
     /* margin-top: 20px; */
     border: solid 1px #fff;
