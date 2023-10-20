@@ -16,6 +16,7 @@
         gap: 50px;
         @include mixinsfunc.flex-box(space-between,none);
         padding-bottom: 50px;
+
         a{
             text-decoration: none;
             color: #f1f1f1;
@@ -23,6 +24,8 @@
             font-family: $font-gral;
             font-size: 20px;
             color: $color-font-nav;
+            transition: linear 150ms;
+
             &:hover{
                 color: $color-lineas;
 

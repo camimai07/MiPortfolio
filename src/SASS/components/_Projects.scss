@@ -61,7 +61,7 @@
             background: none;
             border-radius: 5px;
             box-shadow: 0 0 5px $color-lineas;
-            padding: 5px;
+            transition: linear 150ms;
             &:hover{
                 box-shadow: 0 0 25px $color-lineas;
                 cursor: pointer;
@@ -71,7 +71,10 @@
                 text-decoration: none;
                 font-family: $font-gral;
                 width: 100%;
-                // padding: 50px;
+                padding: 5px ;
+                display: flex;
+                justify-content: center;
+                align-items: center;
                 height:100%;
             }
         }

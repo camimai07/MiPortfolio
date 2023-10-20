@@ -8,16 +8,19 @@ export function Navbar(){
         let line2__menu = document.querySelector('.line2__menu');
         let line3__menu = document.querySelector('.line3__menu');
         let items_menu = document.querySelector('nav ul');
-    
+
+
         line1__menu.classList.toggle('activeline1__menu');
         line2__menu.classList.toggle('activeline2__menu');
         line3__menu.classList.toggle('activeline3__menu');
         items_menu.classList.toggle('items_menu');
+
     };
 
     const light_theme = ()=>{
         document.body.classList.toggle('white');
         let btn2 = document.querySelector('.btn2');
+
         btn2.classList.toggle('active'); 
     };
    
