@@ -19,8 +19,10 @@ export function Navbar(){
         nav.classList.toggle('color')
         // nav_white.classList.toggle('color-white')
 
-
     };
+    const menu_close = ()=>{
+
+    }
 
     const light_theme = ()=>{
         document.body.classList.toggle('white');
@@ -61,11 +63,11 @@ export function Navbar(){
                 <span className="line3__menu"></span>
             </div>
             <ul>
-                <li><a href="#Home">Inicio</a></li>
-                <li><a href="#Me">Acerca de mí</a></li>
-                <li><a href="#Skills">Skills</a></li>
-                <li><a href="#Projects">Proyectos</a></li>
-                <li><a href="#Contact">Contacto</a> </li>
+                <li><a href="#Home" onClick={animation_menu}>Inicio</a></li>
+                <li><a href="#Me" onClick={animation_menu}>Acerca de mí</a></li>
+                <li><a href="#Skills" onClick={animation_menu}>Skills</a></li>
+                <li><a href="#Projects" onClick={animation_menu}>Proyectos</a></li>
+                <li><a href="#Contact" onClick={animation_menu}>Contacto</a> </li>
                 
                 <button className="btn2" onClick={light_theme}>
                     <span><i className="fa-solid fa-sun"></i></span>
