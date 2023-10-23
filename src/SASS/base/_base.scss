@@ -19,6 +19,13 @@ body{
     font-family: $font-gral;
     color: $color-texto;
   }
+  #Me, #Skills, #Projects, #Contacto{
+    h1{
+      padding-top: 40px;
+    }
+  }
+
+ 
   p{
     font-size: $size-p;
   }

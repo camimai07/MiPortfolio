@@ -10,20 +10,14 @@
     flex-direction: column;
     h1{
         padding-bottom: 50px;
-        font-size: $size-h1;
-        font-family: $font-gral;
-        color: $color-texto;
+        
     }
 }
 
 .container-icons-skills{
     max-width: 800px;
-    // height: 1000px;
-    // border: 2px solid white;
     margin: auto;
-    // @include mixinsfunc.flex-box;
     padding: 30px 10px;
-    // overflow-x: scroll;
 
     .container{
         width: 100%;
