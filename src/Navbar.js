@@ -20,9 +20,6 @@ export function Navbar(){
         // nav_white.classList.toggle('color-white')
 
     };
-    const menu_close = ()=>{
-
-    }
 
     const light_theme = ()=>{
         document.body.classList.toggle('white');
@@ -37,7 +34,7 @@ export function Navbar(){
 
     useEffect(() => {
         const scroll_nav = ()=>{
-            if (document.body.scrollTop > 220 || document.documentElement.scrollTop > 220){
+            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50){
                 navRef.current.classList.add('colorNav');
             }else{
                 navRef.current.classList.remove('colorNav');
