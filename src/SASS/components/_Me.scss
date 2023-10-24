@@ -58,7 +58,7 @@
     @include mixinsfunc.flex-box;
     margin-top: 60px;
     background-image: $color-background-avatar;
-    transform: rotate(45deg);
+    // transform: rotate(50deg);
     border-radius: 50%;
     overflow: hidden;
     &::before{
@@ -68,11 +68,11 @@
         height: 160px;
         border-radius: 50%;
         position: absolute;
-        background: url('../../../public/imagen/Mi_Avatar.png') no-repeat;
+        background: url('../../../public/imagen/image_2.jpg') no-repeat;
         overflow: hidden;
         background-size: cover;
         background-position: center;
-        // transform: rotate(-45deg);
+        transform: rotate(20deg);
         // border: $borde-avatar;
     }
     

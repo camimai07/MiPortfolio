@@ -9,7 +9,6 @@ export function Navbar(){
         let line3__menu = document.querySelector('.line3__menu');
         let items_menu = document.querySelector('nav ul');
         let nav = document.querySelector('nav');
-        // let nav_white = document.querySelector('body.white nav');
 
 
         line1__menu.classList.toggle('activeline1__menu');
@@ -17,7 +16,6 @@ export function Navbar(){
         line3__menu.classList.toggle('activeline3__menu');
         items_menu.classList.toggle('items_menu');
         nav.classList.toggle('color')
-        // nav_white.classList.toggle('color-white')
 
     };
 
