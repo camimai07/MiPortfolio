@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MiPortfolio/static/css/main.9600c3f6.css",
-    "main.js": "/MiPortfolio/static/js/main.f24f23ec.js",
+    "main.js": "/MiPortfolio/static/js/main.3c319d8b.js",
     "static/media/blake-connally-IKUYGCFmfw4-unsplash.jpg": "/MiPortfolio/static/media/blake-connally-IKUYGCFmfw4-unsplash.1be7ae0f28e7c4ef779d.jpg",
     "static/media/Mi_Avatar.png": "/MiPortfolio/static/media/Mi_Avatar.611cb62fb0fbcbc047bb.png",
     "index.html": "/MiPortfolio/index.html",
     "main.9600c3f6.css.map": "/MiPortfolio/static/css/main.9600c3f6.css.map",
-    "main.f24f23ec.js.map": "/MiPortfolio/static/js/main.f24f23ec.js.map"
+    "main.3c319d8b.js.map": "/MiPortfolio/static/js/main.3c319d8b.js.map"
   },
   "entrypoints": [
     "static/css/main.9600c3f6.css",
-    "static/js/main.f24f23ec.js"
+    "static/js/main.3c319d8b.js"
   ]
 }
