@@ -14,7 +14,7 @@ export function Contact(){
                             <a href="mailto:camilamaita07@gmail.com" target="_blank"><i className="fa-solid fa-envelope g fa-2xl"style={{color: '#fffbfe'}}></i><br/>E-mail</a>
                         </div>
                         <div className="contenedor-a">
-                            <a href="https://www.canva.com/design/DAFvY_PrKJA/eFcunkD12R3yAbegKPXLjA/edit?utm_content=DAFvY_PrKJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><i className="fa-solid fa-sheet-plastic fa-2xl" style={{color: '#fffbfe'}}></i><br/>CV</a>
+                            <a href="https://drive.google.com/file/d/1NwrLMX1pw3dSkutuJrzjgT5DJsOxW4kh/view?usp=sharing" target="_blank"><i className="fa-solid fa-sheet-plastic fa-2xl" style={{color: '#fffbfe'}}></i><br/>CV</a>
                         </div>
                     </div>
                     
