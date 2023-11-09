@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MiPortfolio/static/css/main.9600c3f6.css",
-    "main.js": "/MiPortfolio/static/js/main.3c319d8b.js",
-    "static/media/blake-connally-IKUYGCFmfw4-unsplash.jpg": "/MiPortfolio/static/media/blake-connally-IKUYGCFmfw4-unsplash.1be7ae0f28e7c4ef779d.jpg",
+    "main.css": "/MiPortfolio/static/css/main.fb7c842e.css",
+    "main.js": "/MiPortfolio/static/js/main.25b76a64.js",
+    "static/media/fondoHome.webp": "/MiPortfolio/static/media/fondoHome.1be7ae0f28e7c4ef779d.webp",
     "static/media/Mi_Avatar.png": "/MiPortfolio/static/media/Mi_Avatar.611cb62fb0fbcbc047bb.png",
     "index.html": "/MiPortfolio/index.html",
-    "main.9600c3f6.css.map": "/MiPortfolio/static/css/main.9600c3f6.css.map",
-    "main.3c319d8b.js.map": "/MiPortfolio/static/js/main.3c319d8b.js.map"
+    "main.fb7c842e.css.map": "/MiPortfolio/static/css/main.fb7c842e.css.map",
+    "main.25b76a64.js.map": "/MiPortfolio/static/js/main.25b76a64.js.map"
   },
   "entrypoints": [
-    "static/css/main.9600c3f6.css",
-    "static/js/main.3c319d8b.js"
+    "static/css/main.fb7c842e.css",
+    "static/js/main.25b76a64.js"
   ]
 }
