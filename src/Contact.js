@@ -14,7 +14,7 @@ export function Contact(){
                             <a href="mailto:camilamaita07@gmail.com" target="_blank"><i className="fa-solid fa-envelope g fa-2xl"style={{color: '#fffbfe'}}></i><br/>E-mail</a>
                         </div>
                         <div className="contenedor-a">
-                            <a href="https://drive.google.com/file/d/1NwrLMX1pw3dSkutuJrzjgT5DJsOxW4kh/view?usp=sharing" target="_blank"><i className="fa-solid fa-sheet-plastic fa-2xl" style={{color: '#fffbfe'}}></i><br/>CV</a>
+                            <a href="https://drive.google.com/file/d/13ksKDOSFhTAAvM7xXe_M8oy_NPS41X_M/view?usp=sharing" target="_blank"><i className="fa-solid fa-sheet-plastic fa-2xl" style={{color: '#fffbfe'}}></i><br/>CV</a>
                         </div>
                     </div>
                     
