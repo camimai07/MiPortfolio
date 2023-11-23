@@ -1,4 +1,6 @@
 export function Home(){
+
+
     return(
 
         <>
@@ -21,7 +23,9 @@ export function Home(){
                         </div>
                         <div className="borde right"></div>
                     </div>
+                    <div class="garabato"></div>
                     
+
                     
             </section>
         </>

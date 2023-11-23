@@ -80,6 +80,16 @@ body.white{
         
         } 
     }
+    .garabato{
+
+        border-bottom: solid rgba(213, 128, 233, 0.5) 20px;
+        
+        &::after{
+            
+            border-bottom: solid rgb(165, 113, 177) 20px;
+           
+        }
+    }
     
     .proyecto{
         box-shadow: $box-shadow-white;
