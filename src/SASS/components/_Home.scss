@@ -18,17 +18,17 @@
 .garabato{
     width: 100%;
     height: 100%;
-    border-bottom: solid rgba(151, 30, 178, 0.5) 20px;
+    border-bottom: solid rgba(73, 46, 91, 0.5) 30px;
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     position: absolute;
-    bottom: -20px;
+    bottom: -30px;
     display: flex;
     &::after{
         content: "";
         width: inherit;
         height: inherit;
-        border-bottom: solid rgba(121, 49, 137, 0.5) 20px;
+        border-bottom: solid rgba(155, 64, 175, 0.5) 20px;
         bottom: -10px;
 
         border-bottom-left-radius: 50%;
