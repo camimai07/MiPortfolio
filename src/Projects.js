@@ -21,13 +21,13 @@ export function Projects(){
                     <div className="sliders">
                         
                         <label className="slide" htmlFor="item-1" id="selector-1" onClick={() => mostrarClick('Dental-Care')}>
-                            <img src={`imagen/DentalCare.png`} alt=""/>
+                            <img loading="lazy" src={`imagen/DentalCare.png`} alt=""/>
                         </label>
                         <label className="slide" htmlFor="item-2" id="selector-2" onClick={() => mostrarClick('Biblioteca')}>
-                            <img src={`imagen/biblioteca.png`} alt=""/>
+                            <img loading="lazy" src={`imagen/biblioteca.png`} alt=""/>
                         </label>
                         <label className="slide" htmlFor="item-3" id="selector-3" onClick={() => mostrarClick('iMovies')}>
-                            <img src={`imagen/iMovies.png`} alt=""/>
+                            <img loading="lazy" src={`imagen/iMovies.png`} alt=""/>
                         </label>
                     </div>
                     <div className="descripcion-proyecto Dental-Care">
