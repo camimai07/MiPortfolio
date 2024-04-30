@@ -54,6 +54,9 @@ body.white{
 
         }
     }
+    #Home{
+        filter: $filter-white;
+    }
     .containerMe {
         box-shadow:  $box-shadow-white;
         background: rgba(213, 174, 213, 0.5);

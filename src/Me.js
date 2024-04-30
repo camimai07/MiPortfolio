@@ -2,9 +2,9 @@ export function Me(){
     return(
         <section id="Me">
                 
+                    <h1>Acerca de mí . . .</h1>
                 <div className="containerMe">
                     
-                    <h1>Acerca de mí . . .</h1>
                     <div className="avatar"></div>
 
                     <div className="descripcionPersonal">

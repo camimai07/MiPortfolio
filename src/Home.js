@@ -9,9 +9,9 @@ export function Home(){
                         <div className="borde left"></div>
                         <div className="img-texto">
                             <div className="texto">
-                                <h1>Hola! Soy</h1><br/>
+                                {/* <h1>Hola! Soy</h1><br/> */}
                                 <h1 className="animate__animated animate__lightSpeedInRight">Camila Luciana Maita</h1><br/>
-                                <h1 className="animate__animated animate__flip" >Full-Stack Developer<span className="guion">_</span></h1><br/>
+                                <h1 >Full Stack Developer<span className="guion">_</span></h1><br/>
 
                                 <div className="contacto-icons-home">
                                     <div className="contacto-icons-home_a"><a href="https://wa.me/1169971238" target="_blank"><i className="fa-brands fa-whatsapp fa-lg" style={{color: '#fffbfe'}}></i></a></div>
@@ -23,7 +23,7 @@ export function Home(){
                         </div>
                         <div className="borde right"></div>
                     </div>
-                    <div class="garabato"></div>
+                    {/* <div class="garabato"></div> */}
                     
 
                     

@@ -8,38 +8,16 @@
     background-attachment: fixed;
     animation: img-move 30s linear infinite alternate;
     cursor: default;
-    height: 100vh;
+    height: 70vh;
     position: relative;
     justify-content: center;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
+    filter: $filter-dark;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    // border-bottom-left-radius: 50%;
+    // border-bottom-right-radius: 50%;
    
 }
-.garabato{
-    width: 100%;
-    height: 100%;
-    border-bottom: solid rgba(73, 46, 91, 0.5) 30px;
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
-    position: absolute;
-    bottom: -30px;
-    display: flex;
-    &::after{
-        content: "";
-        width: inherit;
-        height: inherit;
-        border-bottom: solid rgba(155, 64, 175, 0.5) 20px;
-        bottom: -10px;
 
-        border-bottom-left-radius: 50%;
-        border-bottom-right-radius: 50%;
-        position: absolute;
-    }
-}
-
-// .animate__flip{
-//     animation-delay: 0.5s;
-// }
 @keyframes img-move {
      from{
          background-position: bottom left;
@@ -51,22 +29,23 @@
     display: flex;
     /* flex-direction: column; */
     width: 100%;
-    height: 100vh;
+    height: inherit;
     // backdrop-filter: blur(5px);
-
     .texto {
-        margin: auto;
+        // margin: auto;
+        text-align: center;
         font-size: large ;
         position: relative;
         h1{
-
+            font-size:40px;
+            font-family: $font-gral;
             position: relative;
             &:nth-of-type(2){
                 color: $color-ppal;
+                color: rgba(212, 52, 252, 0.8);
+                font-size:32px;
     
             }
-            
-            
             
         }
        
@@ -76,11 +55,14 @@
         .contacto-icons-home{
            margin-top: 20px;
            display: flex;
+           justify-content: center;
            position: absolute;
+           width: 100%;
+           gap: 20px;
            .contacto-icons-home_a{
-                margin: 0 20px;
-                width: 50px;
-                height: 50px;
+                // margin: 0 20px;
+                width: 40px;
+                height: 40px;
                 cursor: pointer;
                 @include mixinsfunc.flex-box;
                 border-radius: 50%;
@@ -115,13 +97,16 @@
     display: flex;
     width: 300px;
     height: 2px;
-    margin: auto;
+    margin:auto;
+    color: $color-lineas;
     border-radius: 50%;
 
     &.left{
         background: linear-gradient(to left, $color-lineas, transparent);
+        justify-content: end;
     }
     &.right{
+
         background: linear-gradient(to right, $color-lineas, transparent);
     }
 }
