@@ -64,7 +64,9 @@
 }
 
 @media (max-width:1090px){
-    
+    #Home{
+        height: 80vh;
+    }
     nav{
         // background-color: $color_dark;
         ul{
@@ -184,6 +186,9 @@
 
 @media (max-width:700px){
 
+    #Home{
+        height: 100vh;
+    }
 
     .sliders{
         width: 270px;

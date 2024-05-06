@@ -9,7 +9,6 @@ export function Home(){
                         <div className="borde left"></div>
                         <div className="img-texto">
                             <div className="texto">
-                                {/* <h1>Hola! Soy</h1><br/> */}
                                 <h1 className="animate__animated animate__lightSpeedInRight">Camila Luciana Maita</h1><br/>
                                 <h1 >Full Stack Developer<span className="guion">_</span></h1><br/>
 
@@ -23,7 +22,6 @@ export function Home(){
                         </div>
                         <div className="borde right"></div>
                     </div>
-                    {/* <div class="garabato"></div> */}
                     
 
                     
