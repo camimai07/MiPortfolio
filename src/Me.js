@@ -11,17 +11,13 @@ export function Me(){
                         <div className="avatar_movil">
                         </div>
                         <div className="texto">
-                            
-                            <p>Hola! Soy Cami, desarrolladora full-stack en crecimiento. <br/>
-                            Me considero una persona muy perseverante y empática, con buena predisposición y también muy autocrítica. Me gusta rodearme de personas predispuestas a comunicarse, pienso que eso es un pilar fundamental ante la vida misma.<br/>
-                            Tengo dos años de experiencia realizando proyectos grupales e individuales, me incentivan los desafíos y es por eso que mantengo el enfoque en aprender nuevas tecnologías.<br/>
-                            Desde que me interesé por el mundo TI siempre estoy motivada por aumentar mis conocimientos ¡hay tanto que se puede hacer, todavía hay mucho que aprender!.
+                            <p>Soy Camila, desarrolladora Full Stack en un proceso continuo de crecimiento y desarrollo profesional.<br/>
+                            Mis atributos principales incluyen la perseverancia, la empatía y la autocrítica. Además, tengo una firme disposición para colaborar y valoro profundamente la comunicación efectiva como un elemento fundamental en cualquier entorno laboral.
+                            Cuento con una experiencia de 2 años en la ejecución de proyectos, tanto de forma individual como en equipo. Me motivan los desafíos y me comprometo a mantener un enfoque constante en la adquisición de nuevas habilidades y tecnologías.
                             </p>
                         </div>
                         
                     </div>
-                    
-
                     
                 </div>
             

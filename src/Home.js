@@ -16,7 +16,7 @@ export function Home(){
                                 <div className="contacto-icons-home">
                                     <div className="contacto-icons-home_a"><a href="https://wa.me/1169971238" target="_blank"><i className="fa-brands fa-whatsapp fa-lg" style={{color: '#fffbfe'}}></i></a></div>
                                     <div className="contacto-icons-home_a"><a href="mailto:camilamaita07@gmail.com" target="_blank"><i className="fa-solid fa-envelope g"style={{color: '#fffbfe'}}></i></a></div>
-                                    <div className="contacto-icons-home_a"><a href="https://drive.google.com/file/d/1UAgnPYDET1kalzPpiAlhJ1BbeXkx1TkA/view?usp=sharing" target="_blank"><i className="fa-solid fa-sheet-plastic" style={{color: '#fffbfe'}}></i></a></div>
+                                    <div className="contacto-icons-home_a"><a href="https://drive.google.com/file/d/1deL5cWHjYUsaQc6gVG5u6ZUwWkR9hF2d/view?usp=sharing" target="_blank"><i className="fa-solid fa-sheet-plastic" style={{color: '#fffbfe'}}></i></a></div>
                                     
                                 </div>
                             </div>
