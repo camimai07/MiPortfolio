@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MiPortfolio/static/css/main.5952a7f5.css",
-    "main.js": "/MiPortfolio/static/js/main.6318e0f5.js",
+    "main.css": "/MiPortfolio/static/css/main.c5b568b4.css",
+    "main.js": "/MiPortfolio/static/js/main.784e05f6.js",
     "static/media/fondoHome.webp": "/MiPortfolio/static/media/fondoHome.1be7ae0f28e7c4ef779d.webp",
-    "static/media/Mi_Avatar.png": "/MiPortfolio/static/media/Mi_Avatar.611cb62fb0fbcbc047bb.png",
+    "static/media/image_3.jpg": "/MiPortfolio/static/media/image_3.4fefdd1c5b8bd87b7055.jpg",
     "index.html": "/MiPortfolio/index.html",
-    "main.5952a7f5.css.map": "/MiPortfolio/static/css/main.5952a7f5.css.map",
-    "main.6318e0f5.js.map": "/MiPortfolio/static/js/main.6318e0f5.js.map"
+    "main.c5b568b4.css.map": "/MiPortfolio/static/css/main.c5b568b4.css.map",
+    "main.784e05f6.js.map": "/MiPortfolio/static/js/main.784e05f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5952a7f5.css",
-    "static/js/main.6318e0f5.js"
+    "static/css/main.c5b568b4.css",
+    "static/js/main.784e05f6.js"
   ]
 }
